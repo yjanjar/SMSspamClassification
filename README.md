@@ -32,4 +32,4 @@ $ pip3 install -r requirements.txt
 ```
 
 #### Dataset:
-https://www.kaggle.com/uciml/pima-indians-diabetes-database
+Obtained the data from https://www.kaggle.com/uciml/sms-spam-collection-dataset
